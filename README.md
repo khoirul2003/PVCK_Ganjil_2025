@@ -1,3 +1,3 @@
-# PCVK_Genap_2021
+# PCVK_Ganjil_2025
 
-Berisi Project-project untuk praktikum mata kuliah PCVK Genap 20/21 JTI Polinema
+Berisi Project-project untuk praktikum mata kuliah PCVK Genap 25/26 JTI Polinema
